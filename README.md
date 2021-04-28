@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="" width="" />
+<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="213" width="850" />
 
-<br/> <br/><br/><br/><br/><br/>
+<br/> <br/><br/><br/><br/><br/><br/><br/>
 
 <a href="https://github.com/juliamendesc" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
