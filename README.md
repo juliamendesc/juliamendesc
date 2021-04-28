@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="135" width="475" />
+<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="" width="" />
 
 <br/> <br/><br/><br/><br/><br/>
 
@@ -37,7 +37,7 @@ Feel free to explore my github!
 - ⚡ Fun fact: I play tabletop role-playing game
 
 </td><td valign="top" width="50%">
-
+<img src=".github\helloworld.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="100" />
 </td></tr></table>
 
 <br/>
@@ -81,10 +81,6 @@ Feel free to explore my github!
 <br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=juliamendesc&&style=flat-square)
-
-<br/>
-
-<br />
 
 ---
 
