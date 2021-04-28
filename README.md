@@ -30,6 +30,7 @@ Feel free to explore my github!
 
 <br />
 <br />
+
 - 🔭 I’m currently contributing on Techmmunity (https://github.com/techmmunity/techmmunity.github.io)
 
 - 🌱 I’m currently learning C and Javascript
