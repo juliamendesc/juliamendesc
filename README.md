@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="200" width="800" />
+<img src="https://raw.githubusercontent.com/juliamendesc/juliamendesc/main/.github/hello02.png" align="left" height="213" width="850" />
 
 <br/> <br/><br/><br/><br/><br/>
 
