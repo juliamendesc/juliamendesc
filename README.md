@@ -22,8 +22,6 @@ I am currently a student in [42 Lisbon](https://www.42lisboa.com/en/) and keep o
 
 Feel free to explore my github!
 
-<br/>
-
 ## Rapidfire
 
 <table><tr><td valign="top" width="50%">
@@ -41,8 +39,6 @@ Feel free to explore my github!
 </td><td valign="top" width="50%">
 <img src=".github\helloworld.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" />
 </td></tr></table>
-
-<br/>
 
 ## Languages and Tools
 
@@ -75,8 +71,6 @@ Feel free to explore my github!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamendesc&hide_border=true&theme=vue&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
-
-<br/>
 
 <br/>
 
