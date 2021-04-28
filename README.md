@@ -47,21 +47,21 @@ Feel free to explore my github!
 ## Languages and Tools
 
 <div align="center">
-<img style="margin: 10px" src=".github\react.svg" alt="React" height="25" />
-<img style="margin: 10px" src=".github\redux.svg" alt="Redux" height="25" />
-<img style="margin: 10px" src=".github\bootstrap.svg" alt="Bootstrap" height="25" />
-<img style="margin: 10px" src=".github\html5.svg" alt="HTML5" height="25" />
-<img style="margin: 10px" src=".github\css3.svg" alt="CSS3" height="25" />
-<img style="margin: 10px" src=".github\javascript.svg" alt="JavaScript" height="25" />
-<img style="margin: 10px" src=".github\typescript.svg" alt="TypeScript" height="25" />
-<img style="margin: 10px" src=".github\next-dot-js.svg" alt="NextJS" height="25" />
-<img style="margin: 10px" src=".github\mongodb.svg" alt="MongoDB" height="25" />
-<img style="margin: 10px" src=".github\express.svg" alt="Express.js" height="25" />
-<img style="margin: 10px" src=".github\sass.svg" alt="Sass" height="25" />
-<img style="margin: 10px" src=".github\node-dot-js.svg" alt="Node.js" height="25" />
-<img style="margin: 10px" src=".github\git.svg" alt="Git" height="25" />
-<img style="margin: 10px" src=".github\github.svg" alt="Github" height="25" />
-<img style="margin: 10px" src=".github\c.svg" alt="C" height="25" />
+<img style="margin: 20px" src=".github\react.svg" alt="React" height="25" />
+<img style="margin: 20px" src=".github\redux.svg" alt="Redux" height="25" />
+<img style="margin: 20px" src=".github\bootstrap.svg" alt="Bootstrap" height="25" />
+<img style="margin: 20px" src=".github\html5.svg" alt="HTML5" height="25" />
+<img style="margin: 20px" src=".github\css3.svg" alt="CSS3" height="25" />
+<img style="margin: 20px" src=".github\javascript.svg" alt="JavaScript" height="25" />
+<img style="margin: 20px" src=".github\typescript.svg" alt="TypeScript" height="25" />
+<img style="margin: 20px" src=".github\next-dot-js.svg" alt="NextJS" height="25" />
+<img style="margin: 20px" src=".github\mongodb.svg" alt="MongoDB" height="25" />
+<img style="margin: 20px" src=".github\express.svg" alt="Express.js" height="25" />
+<img style="margin: 20px" src=".github\sass.svg" alt="Sass" height="25" />
+<img style="margin: 20px" src=".github\node-dot-js.svg" alt="Node.js" height="25" />
+<img style="margin: 20px" src=".github\git.svg" alt="Git" height="25" />
+<img style="margin: 20px" src=".github\github.svg" alt="Github" height="25" />
+<img style="margin: 20px" src=".github\c.svg" alt="C" height="25" />
 </div>
 
 <br/>
