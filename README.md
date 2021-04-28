@@ -29,7 +29,6 @@ Feel free to explore my github!
 <table><tr><td valign="top" width="50%">
 
 <br />
-<br />
 
 - 🔭 I’m currently contributing on Techmmunity (https://github.com/techmmunity/techmmunity.github.io)
 
