@@ -64,8 +64,6 @@ Feel free to explore my github!
 <img style="margin: 50px" src=".github\c.svg" alt="C" height="25" />
 </div>
 
-<br/>
-
 ## Github Stats
 
 <table><tr><td valign="top" width="50%">
