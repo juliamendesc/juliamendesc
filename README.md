@@ -18,7 +18,7 @@ I’m a frontend developer enthusiast highly interested in collaborating in proj
 
 After years of work in multicultural and international environments, I have developed several valuable skills to enable me to thrive in the market. With a problem-solving attitude and a constant desire to learn and build cool things, I have taken a leap of faith into the tech world.
 
-I am currently a student in [42 Lisbon](https://www.42lisboa.com/en/) and keep on doing projects to increase my knowledge on frontend.
+I am currently a student and an intern at [42 Lisbon](https://www.42lisboa.com/en/) and keep on doing projects to increase my knowledge on frontend.
 
 Feel free to explore my github!
 
