@@ -52,7 +52,7 @@ Feel free to explore my github!
 <img style="margin: 10px; padding-right: 5px" src=".github\typescript.svg" alt="TypeScript" height="25" />
 <img style="margin: 10px; padding-right: 5px" src=".github\next-dot-js.svg" alt="NextJS" height="25" />
 <img style="margin: 10px; padding-right: 5px" src=".github\mongodb.svg" alt="MongoDB" height="25" />
-<img style="margin: 10px; padding-right: 5px" src=".github\express.svg" alt="Express.js" height="25" />
+<img style="margin: 10px; padding-right: 5px" src=".github\expressjs-icon.svg" alt="Express.js" height="25" />
 <img style="margin: 10px; padding-right: 5px" src=".github\sass.svg" alt="Sass" height="25" />
 <img style="margin: 10px; padding-right: 5px" src=".github\node-dot-js.svg" alt="Node.js" height="25" />
 <img style="margin: 10px; padding-right: 5px" src=".github\git.svg" alt="Git" height="25" />
