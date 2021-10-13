@@ -28,9 +28,9 @@ Feel free to explore my github!
 
 <br />
 
-- 🔭 I’m currently contributing on Techmmunity (https://github.com/techmmunity/techmmunity.github.io)
+- 🔭 I’m currently contributing to [42 Lisboa](https://www.42lisboa.com/) as a volunteer intern
 
-- 🌱 I’m currently learning C and Javascript
+- 🌱 I’m currently learning C and solidifying my knowledge of Javascript
 
 - ⚖️ I am a feminist deeply involved with equitability
 
