@@ -28,8 +28,6 @@ Feel free to explore my github!
 
 <table><tr><td valign="center" width="50%">
 
-<br />
-
 - 🔭 I'm a <a href="https://www.42lisboa.com/" target="_blank"><img style="display:inline; margin: 0 1px;" src=".github\42.svg" title="42" alt="42" height="15"/></a> student and junior fullstack developer at [Workmedia](https://workmedia.pt/).
 
 - 🌱 I’m currently learning C at school and professionally working with the following stack: Javascript/NodeJS, Typescript, MySQL, PHP, Graphql.
